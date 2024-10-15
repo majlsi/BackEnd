@@ -1,0 +1,1 @@
+عزيزي المستخدم لقد تم رفض طلب تعديل للجنة {{$committee_name_ar ?? $committee_name_en}}  وذلك بسبب  {{$reject_reason}}

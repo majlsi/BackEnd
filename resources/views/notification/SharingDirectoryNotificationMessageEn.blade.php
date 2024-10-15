@@ -1,0 +1,1 @@
+New directory has been shared with you "{{$directoryNameAr}}" by {{$changedByNameEn}}

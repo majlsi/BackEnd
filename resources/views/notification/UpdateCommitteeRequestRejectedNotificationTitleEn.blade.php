@@ -1,0 +1,1 @@
+The update committee request was rejected

@@ -1,0 +1,1 @@
+Dear user, you have a request to delete a document {{$committee_name_en ??$committee_name_ar}} awaiting approval

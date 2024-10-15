@@ -1,0 +1,1 @@
+تذكير بإجتماع {{$meetingTitleAr}}

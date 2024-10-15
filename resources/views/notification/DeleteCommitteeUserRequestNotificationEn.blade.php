@@ -1,0 +1,1 @@
+Dear user, you have a request to delete a member from the {{$committee_name_en ?? $committee_name_ar}} committee, awaiting approval
