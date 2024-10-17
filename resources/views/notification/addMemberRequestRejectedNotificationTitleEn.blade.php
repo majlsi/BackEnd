@@ -1,0 +1,1 @@
+Reject to add a member to committee

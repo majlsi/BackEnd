@@ -1,0 +1,1 @@
+New decision has been added "{{$meetingDecisionSubjectEn}}" into the meeting "{{$meetingTitleEn}}" by {{$changedByNameEn}}

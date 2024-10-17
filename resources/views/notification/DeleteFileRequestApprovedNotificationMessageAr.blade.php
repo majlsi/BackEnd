@@ -1,0 +1,1 @@
+عزيزي المستخدم لقد تمت الموافقة على حذف مستند {{$file_name_ar ?? $file_name}} من لجنة {{$committee_name_ar ?? $committee_name_en}}

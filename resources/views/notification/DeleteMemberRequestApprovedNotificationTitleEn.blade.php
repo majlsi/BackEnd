@@ -1,0 +1,1 @@
+Approval to delete a member from a committee

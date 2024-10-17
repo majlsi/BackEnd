@@ -1,0 +1,1 @@
+تم إرسال رسالة فى محادثة "{{$chatGroupNameAr}}" بواسطة {{$changedByNameAr}}

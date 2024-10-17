@@ -1,0 +1,1 @@
+Dear user, the update committee request to the {{$committee_name_en ?? $committee_name_ar}} committee has been rejected due to {{$reject_reason}}

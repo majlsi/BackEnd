@@ -1,0 +1,1 @@
+New vote with {{$voteStatusNameEn}} status has been added to circular decision "{{$circularDecisionSubjectEn}}" by {{$changedByNameEn}}

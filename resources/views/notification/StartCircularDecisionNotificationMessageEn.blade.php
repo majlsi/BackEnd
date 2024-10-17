@@ -1,0 +1,1 @@
+New circular decision has been added "{{$circularDecisionSubjectEn}}" by {{$changedByNameEn}}

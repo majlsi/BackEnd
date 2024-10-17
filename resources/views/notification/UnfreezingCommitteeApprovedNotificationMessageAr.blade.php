@@ -1,0 +1,1 @@
+تم فك اللجنة {{$committee_name_ar}}حتي موعد {{ date('Y/m/d', strtotime($committee_expired_date)) }}
