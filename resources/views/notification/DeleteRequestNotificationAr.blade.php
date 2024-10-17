@@ -1,0 +1,1 @@
+عزيزي المستخدم لديك طلب حذف مستند {{$committee_name_ar ?? $committee_name_en}} بانتظار الموافقة

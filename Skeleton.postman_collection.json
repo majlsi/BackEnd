@@ -1,0 +1,238 @@
+{
+	"id": "14126b4a-9971-8ad4-978a-fae8315b07b5",
+	"name": "Skeleton",
+	"description": "",
+	"order": [
+		"e6286906-bdfb-542b-291d-a2f196ea9d9f",
+		"97cdbc9e-30ca-e428-b196-8253f1d61396",
+		"ca5190ee-1dea-91d6-8850-18de348c85b2",
+		"f1ffa354-9b44-c0e3-a67e-fd563c823c2b",
+		"cc52e146-e385-f300-1acf-791273c5de1c",
+		"cb3f380d-b7d4-7a7f-531e-0fd533b67e87"
+	],
+	"folders": [],
+	"timestamp": 0,
+	"owner": "1244844",
+	"public": false,
+	"requests": [
+		{
+			"id": "97cdbc9e-30ca-e428-b196-8253f1d61396",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJzdWIiOjMsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9sYXJhdmVsLXNrZWxldG9uL3B1YmxpYy9hcGkvdjEvYXV0aGVudGljYXRlIiwiaWF0IjoxNDk5MDA0MDk3LCJleHAiOjE0OTkwMDc2OTcsIm5iZiI6MTQ5OTAwNDA5NywianRpIjoidkpXbGhiM3BvSkVYWTdGViJ9.7uz8z6dTF-3dFKYtXEv0xNPze2hwlmyH1Bmc9jhfgZg\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJzdWIiOjMsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9sYXJhdmVsLXNrZWxldG9uL3B1YmxpYy9hcGkvdjEvYXV0aGVudGljYXRlIiwiaWF0IjoxNDk5MDA0MDk3LCJleHAiOjE0OTkwMDc2OTcsIm5iZiI6MTQ5OTAwNDA5NywianRpIjoidkpXbGhiM3BvSkVYWTdGViJ9.7uz8z6dTF-3dFKYtXEv0xNPze2hwlmyH1Bmc9jhfgZg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/laravel-skeleton/public/api/v1/sections/filterByCode",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1499004213768,
+			"name": "Filter Data",
+			"description": "",
+			"collectionId": "14126b4a-9971-8ad4-978a-fae8315b07b5",
+			"responses": [],
+			"rawModeData": "{\n  \"SearchObject\":{\n    \"code\":\"H1\"\n  } ,\n  \"PageNumber\":1,\n  \"PageSize\":3,\n  \"SortBy\":\"id\",\n  \"SortDirection\":\"DESC\"\n  \n}"
+		},
+		{
+			"id": "ca5190ee-1dea-91d6-8850-18de348c85b2",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/laravel-skeleton/public/api/v1/authenticate/register",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "14126b4a-9971-8ad4-978a-fae8315b07b5",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Register",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1499004137612,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\n    \"password\": \"123\",\n    \"name\": \"Yasser Mohammed\",\n    \"email\": \"yasser.mohammd2@enozom.com\"\n}"
+		},
+		{
+			"id": "cb3f380d-b7d4-7a7f-531e-0fd533b67e87",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJzdWIiOjMsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9sYXJhdmVsLXNrZWxldG9uL3B1YmxpYy9hcGkvdjEvYXV0aGVudGljYXRlIiwiaWF0IjoxNDk5MDA0MDk3LCJleHAiOjE0OTkwMDc2OTcsIm5iZiI6MTQ5OTAwNDA5NywianRpIjoidkpXbGhiM3BvSkVYWTdGViJ9.7uz8z6dTF-3dFKYtXEv0xNPze2hwlmyH1Bmc9jhfgZg\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJzdWIiOjMsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9sYXJhdmVsLXNrZWxldG9uL3B1YmxpYy9hcGkvdjEvYXV0aGVudGljYXRlIiwiaWF0IjoxNDk5MDA0MDk3LCJleHAiOjE0OTkwMDc2OTcsIm5iZiI6MTQ5OTAwNDA5NywianRpIjoidkpXbGhiM3BvSkVYWTdGViJ9.7uz8z6dTF-3dFKYtXEv0xNPze2hwlmyH1Bmc9jhfgZg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/laravel-skeleton/public/api/v1/authenticate/invalidate",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "14126b4a-9971-8ad4-978a-fae8315b07b5",
+			"data": [
+				{
+					"key": "",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"dataMode": "params",
+			"name": "Logout",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1499004532570,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "cc52e146-e385-f300-1acf-791273c5de1c",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJzdWIiOjMsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9sYXJhdmVsLXNrZWxldG9uL3B1YmxpYy9hcGkvdjEvYXV0aGVudGljYXRlIiwiaWF0IjoxNDk5MDA0NTAyLCJleHAiOjE0OTkwMDgxMDIsIm5iZiI6MTQ5OTAwNDUwMiwianRpIjoiUUxjZmM1Yzdqa3ZxakZVciJ9.aNmueiwmqMU_cBgmlWbr65lHcOA5zXL33us0yEOdr2k\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJzdWIiOjMsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9sYXJhdmVsLXNrZWxldG9uL3B1YmxpYy9hcGkvdjEvYXV0aGVudGljYXRlIiwiaWF0IjoxNDk5MDA0NTAyLCJleHAiOjE0OTkwMDgxMDIsIm5iZiI6MTQ5OTAwNDUwMiwianRpIjoiUUxjZmM1Yzdqa3ZxakZVciJ9.aNmueiwmqMU_cBgmlWbr65lHcOA5zXL33us0yEOdr2k",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/laravel-skeleton/public/api/v1/authenticate/user",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1499004518581,
+			"name": "Get Current User",
+			"description": "",
+			"collectionId": "14126b4a-9971-8ad4-978a-fae8315b07b5",
+			"responses": []
+		},
+		{
+			"id": "e6286906-bdfb-542b-291d-a2f196ea9d9f",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJzdWIiOjMsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9sYXJhdmVsLXNrZWxldG9uL3B1YmxpYy9hcGkvdjEvYXV0aGVudGljYXRlIiwiaWF0IjoxNDk5MDA0MDk3LCJleHAiOjE0OTkwMDc2OTcsIm5iZiI6MTQ5OTAwNDA5NywianRpIjoidkpXbGhiM3BvSkVYWTdGViJ9.7uz8z6dTF-3dFKYtXEv0xNPze2hwlmyH1Bmc9jhfgZg\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJzdWIiOjMsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9sYXJhdmVsLXNrZWxldG9uL3B1YmxpYy9hcGkvdjEvYXV0aGVudGljYXRlIiwiaWF0IjoxNDk5MDA0MDk3LCJleHAiOjE0OTkwMDc2OTcsIm5iZiI6MTQ5OTAwNDA5NywianRpIjoidkpXbGhiM3BvSkVYWTdGViJ9.7uz8z6dTF-3dFKYtXEv0xNPze2hwlmyH1Bmc9jhfgZg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/laravel-skeleton/public/api/v1/sections",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1499004244340,
+			"name": "Get All Data (Filtered and Paged)",
+			"description": "",
+			"collectionId": "14126b4a-9971-8ad4-978a-fae8315b07b5",
+			"responses": [],
+			"rawModeData": "{\n  \"SearchObject\":{\n    \"code\":\"H1\"\n  } ,\n  \"PageNumber\":1,\n  \"PageSize\":3\n  \n}"
+		},
+		{
+			"id": "f1ffa354-9b44-c0e3-a67e-fd563c823c2b",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/laravel-skeleton/public/api/v1/authenticate",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "14126b4a-9971-8ad4-978a-fae8315b07b5",
+			"data": [
+				{
+					"key": "grant_type",
+					"value": "password",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "yasser.mohammd2@enozom.com",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "Login",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1499004146807,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

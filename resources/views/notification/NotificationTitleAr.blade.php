@@ -1,0 +1,1 @@
+ لقد تم {{$meetingStatusAr}} اجتماع {{$meetingTitleAr}} {{$meetingTypeNameAr}}

@@ -1,0 +1,1 @@
+Your access on directory has been removed "{{$directoryNameAr}}" by {{$changedByNameEn}}

@@ -1,0 +1,1 @@
+Dear user, it has been approved to delete the {{$file_name ?? $file_name_ar}} document from the {{$committee_name_en ?? $committee_name_ar}} committee.

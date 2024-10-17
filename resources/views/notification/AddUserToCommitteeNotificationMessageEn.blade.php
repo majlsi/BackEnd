@@ -1,0 +1,1 @@
+Dear user, you have been added to become a member of the committee {{$committee_name_ar}} By {{$user_name}} you can contact with him throw Email {{$user_email}} or {{$user_phone}}

@@ -1,0 +1,1 @@
+Meeting decision "{{$meetingDecisionSubjectEn}}" into the meeting "{{$meetingTitleEn}}" has been voted to be {{$voteStatusNameEn}} by {{$changedByNameEn}}

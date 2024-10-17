@@ -1,0 +1,1 @@
+Dear user, there are ten days left until the {{$committee_name_en}} committee completes its work and freezes all permissions to request unfreezing. I hope to submit a request to the system administrator.

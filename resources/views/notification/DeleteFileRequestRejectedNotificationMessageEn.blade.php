@@ -1,0 +1,1 @@
+Dear user, the request to delete the {{$file_name ?? $file_name_ar}} document from the {{$committee_name_en ?? $committee_name_ar}} committee has been rejected because “the reason added is taken by the system administrator.”
