@@ -1,0 +1,1 @@
+Reject to delete a document

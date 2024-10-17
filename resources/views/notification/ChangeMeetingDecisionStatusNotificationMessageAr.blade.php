@@ -1,0 +1,1 @@
+تم التصويت على قرار "{{$meetingDecisionSubjectAr}}" فى الإجتماع {{$meetingTitleAr}} {{$voteStatusNameAr}} بواسطة {{$changedByNameAr}}

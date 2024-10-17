@@ -1,0 +1,1 @@
+{{$meetingTitleEn}} {{$meetingTypeNameEn}} Meeting {{$meetingStatusEn}} now

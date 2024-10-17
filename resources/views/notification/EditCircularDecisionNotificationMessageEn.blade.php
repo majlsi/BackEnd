@@ -1,0 +1,1 @@
+Circular decision "{{$circularDecisionSubjectEn}}" has been updated by {{$changedByNameEn}}

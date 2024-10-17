@@ -1,0 +1,1 @@
+ Dear user, the request to add a member to the committee {{$committee_name_en ?? $committee_name_ar}} has been rejected because {{$reject_reason}}

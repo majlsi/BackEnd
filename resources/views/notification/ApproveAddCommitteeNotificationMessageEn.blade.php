@@ -1,0 +1,1 @@
+Committee {{$committee_name_ar}} has been created 

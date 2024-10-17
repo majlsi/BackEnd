@@ -1,0 +1,1 @@
+{{$meetingTitleEn}} {{$meetingTypeNameEn}} will start after {{$meetingAfterTimeEn}}

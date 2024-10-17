@@ -1,0 +1,1 @@
+You received a new message from {{$user_name_en}}

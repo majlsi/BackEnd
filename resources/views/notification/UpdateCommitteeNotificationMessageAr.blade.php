@@ -1,0 +1,1 @@
+عزيزي المستخدم اللجنة {{$committee_name_ar ?? $committee_name_en}} تمت الموافقة على تحديث {{$committee_name_ar ?? $committee_name_en}}.
