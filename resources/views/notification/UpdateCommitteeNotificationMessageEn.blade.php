@@ -1,0 +1,1 @@
+Dear user, the committee {{$committee_name_en ?? $committee_name_ar}} has been approved to be updated.

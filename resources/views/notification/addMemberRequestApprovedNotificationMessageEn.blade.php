@@ -1,0 +1,1 @@
+Dear user, the member has been approved to be added to the committee {{$committee_name_en ?? $committee_name_ar}}

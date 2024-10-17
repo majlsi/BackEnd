@@ -1,0 +1,1 @@
+Regrettably, the proposal to unfreeze committee members has not been approved because {{$reject_reason}}.

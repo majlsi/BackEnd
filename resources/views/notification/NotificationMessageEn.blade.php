@@ -1,0 +1,1 @@
+{{$meetingTitleEn}} {{$meetingTypeNameEn}} Meeting Created By {{$meetingCreatorNameEn}} has been {{$meetingStatusEn}} now
